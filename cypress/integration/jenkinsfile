@@ -1,0 +1,28 @@
+pipeline {
+    agent any
+
+    stages{
+        stage("Clonar repositório"){
+            steps{
+                git branch: 'main', url: ''
+
+            }
+        }
+    }
+    stages{
+        stage("Instalar dependências"){
+            steps{
+                sh 'npm install'
+
+            }
+        }
+    }
+    stages{
+        stage("Executar testes"){
+            steps{
+                sh 'npm run cy: run'
+    
+            }       
+        }
+    }
+}

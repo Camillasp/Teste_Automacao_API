@@ -1,0 +1,44 @@
+[
+    {
+        "codigo do cupom": "0012023",
+        "nome": "Jose Alcantara",
+        "valor": "690,00",
+        "desconto": "15%",
+        "descricao": "Cupom de teste"
+    },
+    {
+        "codigo do cupom": "0022023",
+        "nome": "Maria Fagundes",
+        "valor": "225,34",
+        "desconto": "10%",
+        "descricao": "Cupom de teste"
+    },
+    {
+        "codigo do cupom": "0032023",
+        "nome": "Antonio Silva",
+        "valor": "301,10",
+        "desconto": "10%",
+        "descricao": "Cupom de teste"
+    },
+    {
+        "codigo do cupom": "0042023",
+        "nome": "João Ribeiro",
+        "valor": "467,22",
+        "desconto": "10%",
+        "descricao": "Cupom de teste"
+    },
+    {
+        "codigo do cupom": "0052023",
+        "nome": "Cibele Souza",
+        "valor": "985,99",
+        "desconto": "15%",
+        "descricao": "Cupom de teste"
+    },
+    {
+        "codigo do cupom": "0062023",
+        "nome": "Ana Maria Braga",
+        "valor": "555,66",
+        "desconto": "10%",
+        "descricao": "Cupom de teste"
+    }
+]
